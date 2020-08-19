@@ -1,7 +1,7 @@
 ### Hi there 👋, I am **Neeraj Gupta.**
 <br>
 
-<img src="https://github.com/Neeraj3508/Neeraj3508/tree/master/Image/readme.png">
+<img src="./Image/readme.png">
 
 <br><br>
 
