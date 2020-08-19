@@ -1,7 +1,7 @@
 ### Hi there 👋, I am **Neeraj Gupta.**
 <br>
 
-<img src="readme.png">
+<img src="./Image/readme.png">
 
 <br><br>
 
