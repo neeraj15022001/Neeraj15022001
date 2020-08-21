@@ -1,7 +1,7 @@
 <p align="center">Hi there 👋, I am <b>Neeraj Gupta.</b></p>
 <br>
 
-<img src="Neeraj3508.png" align="center">
+<p align=center:><img src="Neeraj3508.png" align="center"></p>
 
 <br><br>
 <p align="center">
