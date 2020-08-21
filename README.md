@@ -1,24 +1,25 @@
 <p align="center">Hi there 👋, I am <b>Neeraj Gupta.</b></p>
 <br>
 
-<img src="Neeraj3508.png">
+<img src="Neeraj3508.png" align="center">
 
 <br><br>
 <p align="center">
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Fashion Store and digging into **UI/UX**.
-- 🌱 I’m currently learning **Javascript**.
+<p align="center">🔭 I’m currently working on Fashion Store and digging into <b>UI/UX</b>.</p>
 
-- 👯 I’m looking to collaborate on **Web based Projects**.
+<p align="center">🌱 I’m currently learning <b>Javascript</b>.</p>
 
-- 🤔 I’m looking for help with **Backend**.
+<p align="center">👯 I’m looking to collaborate on <b>Web based Project</b>
 
-- 💬 Ask me about **coding related stuff**.
+<p align="center">🤔 I’m looking for help with <b>Backend</b></p>
 
-- 📫 How to reach me: **gneeraj32595@gmail.com**.
+<p align="center">💬 Ask me about <b>coding related stuff</b></p>
 
-- ⚡ Fun fact: **Humans are the only animals that blush**.
+<p align="center">📫 How to reach me: <a href="mailto : gneeraj32595@gmail.com">gneeraj32595@gmail.com</a></p>
+
+<p align="center">⚡ Fun fact: <b>Humans are the only animals that blush</b>.
 </p>
 <hr>
 
