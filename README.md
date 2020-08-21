@@ -1,10 +1,10 @@
-### Hi there 👋, I am **Neeraj Gupta.**
+<p align="center">Hi there 👋, I am <b>Neeraj Gupta.</b></p>
 <br>
 
 <img src="Neeraj3508.png">
 
 <br><br>
-
+<p align="center">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Fashion Store and digging into **UI/UX**.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **gneeraj32595@gmail.com**.
 
 - ⚡ Fun fact: **Humans are the only animals that blush**.
-
+</p>
 <hr>
 
 <div align="center">
