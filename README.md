@@ -1,7 +1,7 @@
 <p align="center">Hi there 👋, I am <b>Neeraj Gupta.</b></p>
 <br>
 
-<p align="center"><img src="New.png"</p>
+<p align="center"><img src="https://neeraj3508.gitlab.io/hero/Neeraj3508.png"</p>
 
 <br><br>
 <p align="center">
