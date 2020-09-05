@@ -28,6 +28,5 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/_neeraj.gupta_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="https://twitter.com/_neeraj2001_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href="mailto: gneeraj32595@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<<<<<<< HEAD
 <a href="https://codepen.io/dashboard?type=VIEW&opts_itemType=PEN&opts_searchTerm=null&opts_order=RELEVANCE&opts_depth=EVERYTHING&opts_showForks=true&opts_filter=all&opts_orderBy=ID&opts_orderDirection=0&opts_tag=null&displayType=GRID&previewType=IFRAME&activeType=PEN"><img src="https://img.icons8.com/ios-filled/48/000000/codepen.png"/></a>
 </div>
