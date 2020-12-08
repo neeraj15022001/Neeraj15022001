@@ -8,15 +8,13 @@
 <p align="center">
 Here are some ideas to get you started:
 
-<p align="center">🔭 I’m currently working on SwiftUI and digging into <b>Web API's</b>.</p>
+<p align="center">🔭 I’m currently working on Swift and ReactJS.</p>
 
-<p align="center">🌱 I’m currently learning <b>iOS</b>.</p>
+<p align="center">🌱 I’m currently learning <b>ReactJS</b>.</p>
 
-<p align="center">👯 I’m looking to collaborate on <b>Web based Project/ iOS Projects</b>
+<p align="center">👯 I’m looking to collaborate on <b>Web based Project</b>
 
-<p align="center">🤔 I’m looking for help with <b>Web/iOS</b></p>
-
-<p align="center">💬 Ask me about <b>coding related stuff</b></p>
+<p align="center">💬 Ask me about <b>programming related stuff</b></p>
 
 <p align="center">📫 How to reach me: <a href="mailto : gneeraj32595@gmail.com">gneeraj32595@gmail.com</a></p>
 
