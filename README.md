@@ -1,41 +1,29 @@
-<p align="center">Hi there 👋, I am <b>Neeraj Gupta.</b></p>
-<br>
-
-<p align="center"><img src="https://neeraj3508.gitlab.io/hero/Neeraj3508.png"</p>
-
-<br><br>
-
-<p align="center">
-Here are some ideas to get you started:
-
-<p align="center">🔭 I’m currently working on Swift and ReactJS.</p>
-
-<p align="center">🌱 I’m currently learning <b>ReactJS</b>.</p>
-
-<p align="center">👯 I’m looking to collaborate on <b>Web based Project</b>
-
-<p align="center">💬 Ask me about <b>programming related stuff</b></p>
-
-<p align="center">📫 How to reach me: <a href="mailto : gneeraj32595@gmail.com">gneeraj32595@gmail.com</a></p>
-
-<p align="center">⚡ Fun fact: <b>Humans are the only animals that blush</b>.
+<!-- # Hey, I am Neeraj -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+<p style="font-size:2.5em;font-family: 'Poppins', sans-serif;" >Hey, I am Neeraj</p>
+<hr style="border-color:white;" />
+<a target="_blank" href="mailto:gneeraj32595@gmail.com" target="_blank">
+<img style="padding:10px 10px 10px 0px;" height="40em" alt="Email" src="./Email.png" />
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/neeraj3508/" target="_blank">
+<img style="padding:10px;" height="40em" alt="LinkedIn" src="./Linkedin.png" />
+</a>
+<a target="_blank" href="https://twitter.com/_neeraj2001_" target="_blank">
+<img style="padding:10px;" height="40em" alt="Twitter" src="./Twitter.png" />
+</a>
+<a target="_blank" href="https://dev.to/neeraj3508" target="_blank">
+<img style="padding:10px;" height="40em" alt="Practical Dev" src="./Dev.png" />
+</a>
+<div style="padding: 20px 0px;"><img src="./bg.png" alt="Neeraj Github Banner"></div>
+<p style="color:white;font-weight:500;font-family: 'Poppins', sans-serif;">
+   I am a beginner level iOS and Web Developer and Designer and i have still to explore. So, exploring something new related to these technologies and gaining as much as i can. For Collaboration on a project contact me.
 </p>
-<hr>
-
-<div align="center">
-<h1 align="center">Social Handle</h1>
-<a href="https://www.instagram.com/_neeraj.gupta_/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="https://twitter.com/_neeraj2001_" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="mailto: gneeraj32595@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a> 
-<a href="https://sourcerer.io/neeraj3508"><img src="https://avatars2.githubusercontent.com/u/55191873?v=4" height="50px" width="50px" alt=""/></a>
-</div>
-<br><br>
-<div align="center">
-<a href="https://sourcerer.io/neeraj3508"><img src="https://img.shields.io/badge/HTML-98%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/neeraj3508"><img src="https://img.shields.io/badge/CSS-80%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/neeraj3508"><img src="https://img.shields.io/badge/JavaScript-60%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/neeraj3508"><img src="https://img.shields.io/badge/Swift-20%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/neeraj3508"><img src="https://img.shields.io/badge/Python-5%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/neeraj3508"><img src="https://img.shields.io/badge/C-4%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/neeraj3508"><img src="https://img.shields.io/badge/Java-1%20commits-orange.svg" alt=""></a>
-</div>
+<table width="100%">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neeraj3508&show_icons=true&hide_border=true" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj3508&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </td>
+  </tr>
+ <table>
+  
