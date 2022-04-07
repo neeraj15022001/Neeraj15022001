@@ -17,7 +17,7 @@
 </a>
 <div style="padding: 20px 0px;"><img src="./bg.png" alt="Neeraj Github Banner"></div>
 <p style="color:white;font-weight:500;font-family: 'Poppins', sans-serif;">
-   I am a beginner level iOS and Web Developer and Designer and i have still to explore. So, exploring something new related to these technologies and gaining as much as i can. For Collaboration on a project contact me.
+   I am a Front End Developer and i have still to explore. So, exploring something new related to these technologies and gaining as much as i can.
 </p>
 <table width="100%">
   <tr>
