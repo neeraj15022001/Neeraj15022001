@@ -1,29 +1,38 @@
-<!-- # Hey, I am Neeraj -->
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
-<p style="font-size:2.5em;font-family: 'Poppins', sans-serif;" >Hey, I am Neeraj</p>
-<hr style="border-color:white;" />
-<a target="_blank" href="mailto:gneeraj32595@gmail.com" target="_blank">
-<img style="padding:10px 10px 10px 0px;" height="40em" alt="Email" src="./Email.png" />
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/neeraj3508/" target="_blank">
-<img style="padding:10px;" height="40em" alt="LinkedIn" src="./Linkedin.png" />
-</a>
-<a target="_blank" href="https://twitter.com/_neeraj2001_" target="_blank">
-<img style="padding:10px;" height="40em" alt="Twitter" src="./Twitter.png" />
-</a>
-<a target="_blank" href="https://dev.to/neeraj3508" target="_blank">
-<img style="padding:10px;" height="40em" alt="Practical Dev" src="./Dev.png" />
-</a>
-<div style="padding: 20px 0px;"><img src="./bg.png" alt="Neeraj Github Banner"></div>
-<p style="color:white;font-weight:500;font-family: 'Poppins', sans-serif;">
-   I am a Front End Developer and i have still to explore. So, exploring something new related to these technologies and gaining as much as i can.
-</p>
-<table width="100%">
-  <tr>
-    <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neeraj15022001&show_icons=true&hide_border=true" /> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj15022001&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </td>
-  </tr>
- <table>
-  
+# Hi there, I'm Neeraj 👋
+
+Passionate about creating engaging user experiences, I specialize in frontend web development with expertise in React and have hands-on experience in React Native mobile app development and UI/UX Designing. With a keen eye for UI/UX design, I strive to deliver visually appealing and responsive web applications. Having honed my skills during a year-long software development internship at Bajaj Finserv Health, I excel in problem-solving and collaborating with cross-functional teams. Let's connect to explore opportunities in frontend development and UI/UX design.
+
+## 🚀 About Me
+- 💼 I'm currently working as Associate Software Development Engineer at Bajaj Finserv Health.
+- 💻 I'm passionate about web development, machine learning,artificial intelligence and UI/UX Design.
+- 🌱 I'm currently learning Design Language System.
+- 📫 You can reach me at gneeraj15022001@gmail.com.
+- Check more about me [here >>](https://neeraj15022001.github.io/personalportfolio/)
+
+## 🛠️ Skills
+- HTML, CSS, JavaScript
+- Bootstrap, Tailwind CSS
+- React, Redux
+- React Native, Flutter
+- Node.js, Express.js
+- MongoDB, Firebase
+- Git, GitHub, BitBucket, GitLab
+- Wordpress, Strapi, Shopify, Wix
+- GCP, Azure
+- LitGPT, HuggingFace Transformers
+
+## 📊 GitHub Statistics
+[![Neeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neeraj15022001&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=neeraj15022001&count_private=true&theme=tokyonight&showicons=true%29)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj15022001&langs_count=10&theme=tokyonight%29)]()
+
+## 🤝 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/neeraj15022001/)
+- [X](https://twitter.com/neeraj15022001)
+- [Instagram](https://www.instagram.com/_neeraj.gupta_/)
+- [YouTube](https://www.youtube.com/channel/UCPd7f1lvH47fAUqfvfB24mQ)
+- [Medium](https://medium.com/@neeraj.gupta2_2261)
+- [DEV](https://dev.to/neeraj15022001)
+- [HuggingFace](https://huggingface.co/Neeraj15022001)
+
