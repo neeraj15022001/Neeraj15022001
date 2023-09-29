@@ -19,6 +19,7 @@ Passionate about creating engaging user experiences, I specialize in frontend we
 - Git, GitHub, BitBucket, GitLab
 - Wordpress, Strapi, Shopify, Wix
 - GCP, Azure
+- NGINX
 - LitGPT, HuggingFace Transformers
 
 ## 📊 GitHub Statistics
